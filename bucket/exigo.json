@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/branow/exigo-cli/releases/download/v0.1.1/exigo_0.1.1_windows_amd64.zip",
+            "bin": [
+                "exigo.exe"
+            ],
+            "hash": "868c9b807e77dc017b2c3913c479053238cb42735fc683e4c9ef23ad9a37a8e6"
+        },
+        "arm64": {
+            "url": "https://github.com/branow/exigo-cli/releases/download/v0.1.1/exigo_0.1.1_windows_arm64.zip",
+            "bin": [
+                "exigo.exe"
+            ],
+            "hash": "ea3a93bc18b58f097a00e20866d99fc4938d17c5bd69a760fd886e2bdad7c921"
+        }
+    },
+    "homepage": "https://github.com/branow/exigo-cli",
+    "license": "MIT",
+    "description": "Command-line interface for the Exigo direct-selling back-office API"
+}
