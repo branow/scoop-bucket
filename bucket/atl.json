@@ -1,19 +1,19 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/branow/atlassian-cli/releases/download/v0.1.3/atl_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/branow/atlassian-cli/releases/download/v0.1.4/atl_0.1.4_windows_amd64.zip",
             "bin": [
                 "atl.exe"
             ],
-            "hash": "0c2669286e1f579a26e9f93497d982bb339f0d99b266bf56f587acf6db44bf4a"
+            "hash": "dfdb86234b7864f0e0810cfc6689ebb6a7c7e19d91178f6dece7af18b1aae0d3"
         },
         "arm64": {
-            "url": "https://github.com/branow/atlassian-cli/releases/download/v0.1.3/atl_0.1.3_windows_arm64.zip",
+            "url": "https://github.com/branow/atlassian-cli/releases/download/v0.1.4/atl_0.1.4_windows_arm64.zip",
             "bin": [
                 "atl.exe"
             ],
-            "hash": "d13837fd78de2cc7e21e92dc19de4611a05feac34c2fc60fa6ce08313f3b4c74"
+            "hash": "6f00e466400a3690b40f567935e7916f7a0dc0e38efa894ef7cd6772f15dd4e5"
         }
     },
     "homepage": "https://github.com/branow/atlassian-cli",
