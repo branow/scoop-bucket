@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/branow/figma-cli/releases/download/v0.1.0/figma_0.1.0_windows_amd64.zip",
+            "bin": [
+                "figma.exe"
+            ],
+            "hash": "2e24950fe4a6ed566f8e5b64de904b1380080613d79cf7442d893d25404076c5"
+        },
+        "arm64": {
+            "url": "https://github.com/branow/figma-cli/releases/download/v0.1.0/figma_0.1.0_windows_arm64.zip",
+            "bin": [
+                "figma.exe"
+            ],
+            "hash": "f460b6b2572c77898714bf65fa9f81c241c7bbc7c3e8d5c7511737101f2b278e"
+        }
+    },
+    "homepage": "https://github.com/branow/figma-cli",
+    "license": "MIT",
+    "description": "Command-line interface for the Figma REST API"
+}
