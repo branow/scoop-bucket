@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/branow/dbmap/releases/download/v0.1.0/dbmap_0.1.0_windows_amd64.zip",
+            "bin": [
+                "dbmap.exe"
+            ],
+            "hash": "b80fffa768a7c8d416a7e9d79b9a3280f24f3b48f07e8999f4535160d69b4303"
+        },
+        "arm64": {
+            "url": "https://github.com/branow/dbmap/releases/download/v0.1.0/dbmap_0.1.0_windows_arm64.zip",
+            "bin": [
+                "dbmap.exe"
+            ],
+            "hash": "02a7cef0ee348f2e5ffe169f3d711ece78fc753e69e4f3d32f9cda7fd2de49bf"
+        }
+    },
+    "homepage": "https://github.com/branow/dbmap",
+    "license": "MIT",
+    "description": "Index a database into a compact map an agent can read in one pass"
+}
