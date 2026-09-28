@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/branow/dbmap/releases/download/v0.1.0/dbmap_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/branow/dbmap/releases/download/v0.2.0/dbmap_0.2.0_windows_amd64.zip",
             "bin": [
                 "dbmap.exe"
             ],
-            "hash": "b80fffa768a7c8d416a7e9d79b9a3280f24f3b48f07e8999f4535160d69b4303"
+            "hash": "a1d75fff1d4439a7a7d6364ac776a46b2a10e9e8845a16868e1e7a12eb28348f"
         },
         "arm64": {
-            "url": "https://github.com/branow/dbmap/releases/download/v0.1.0/dbmap_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/branow/dbmap/releases/download/v0.2.0/dbmap_0.2.0_windows_arm64.zip",
             "bin": [
                 "dbmap.exe"
             ],
-            "hash": "02a7cef0ee348f2e5ffe169f3d711ece78fc753e69e4f3d32f9cda7fd2de49bf"
+            "hash": "8167bd758f351882231743f633627be3fde8d3dfa069a70006f5170f04bab0dd"
         }
     },
     "homepage": "https://github.com/branow/dbmap",
