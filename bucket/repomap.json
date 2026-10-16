@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/branow/repomap/releases/download/v0.1.0/repomap_0.1.0_windows_amd64.zip",
+            "bin": [
+                "repomap.exe"
+            ],
+            "hash": "28dd99c2a5e731981182587faabf99de7fc0ab327c4dd66c372fff29904e1004"
+        },
+        "arm64": {
+            "url": "https://github.com/branow/repomap/releases/download/v0.1.0/repomap_0.1.0_windows_arm64.zip",
+            "bin": [
+                "repomap.exe"
+            ],
+            "hash": "56fb121c50b48a1d8a776a022833524c35b9feb4ccaa3b85c8ad9982a7f5a8df"
+        }
+    },
+    "homepage": "https://github.com/branow/repomap",
+    "license": "MIT",
+    "description": "Index a set of repositories into a compact map an agent can read in one pass"
+}
