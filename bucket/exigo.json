@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/branow/exigo-cli/releases/download/v0.2.1/exigo_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/branow/exigo-cli/releases/download/v0.2.2/exigo_0.2.2_windows_amd64.zip",
             "bin": [
                 "exigo.exe"
             ],
-            "hash": "9026b9a4141e5b469dfac6946080d851329d5740a43f0b144f23bf19ff6d7251"
+            "hash": "c1eeefc5321520919f0c690600d3c95040f03cd30a484bf8a2f28bdb05686f4e"
         },
         "arm64": {
-            "url": "https://github.com/branow/exigo-cli/releases/download/v0.2.1/exigo_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/branow/exigo-cli/releases/download/v0.2.2/exigo_0.2.2_windows_arm64.zip",
             "bin": [
                 "exigo.exe"
             ],
-            "hash": "3bd5ab99b0cfcbbc48188fdb01b4c0234b84c34bf465903e52d52841eeeef333"
+            "hash": "43c2c1fb9ee8f3663d0f6bc15d19d9886146d8b4882c65dafc227b8c573de1fc"
         }
     },
     "homepage": "https://github.com/branow/exigo-cli",
