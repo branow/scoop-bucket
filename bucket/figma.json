@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/branow/figma-cli/releases/download/v0.1.2/figma_0.1.2_windows_amd64.zip",
+            "url": "https://github.com/branow/figma-cli/releases/download/v0.1.3/figma_0.1.3_windows_amd64.zip",
             "bin": [
                 "figma.exe"
             ],
-            "hash": "3a2c07192324cf0055688ebddb2f1c8297f394cf7c8e089e0bd0cb762e959f7e"
+            "hash": "df1f8a3d7818873e065120349b77e7bffd696661c3419775b2bab7fdbe13c0bf"
         },
         "arm64": {
-            "url": "https://github.com/branow/figma-cli/releases/download/v0.1.2/figma_0.1.2_windows_arm64.zip",
+            "url": "https://github.com/branow/figma-cli/releases/download/v0.1.3/figma_0.1.3_windows_arm64.zip",
             "bin": [
                 "figma.exe"
             ],
-            "hash": "ad1ee9e629798d6030d3976920cb5ac23b6f2651353fb24d0a92038990aef2e6"
+            "hash": "570fcb9f161ac656bb40d10998410e4680058a2ec8bdc721066af5d406565c1e"
         }
     },
     "homepage": "https://github.com/branow/figma-cli",
